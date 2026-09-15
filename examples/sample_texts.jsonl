@@ -1,0 +1,4 @@
+{"id": "uav1", "text": "无人机电力线路巡检影像智能检索", "metadata": {"domain": "uav", "lang": "zh"}}
+{"id": "uav2", "text": "可见光与红外双光谱缺陷检测", "metadata": {"domain": "uav", "lang": "zh"}}
+{"id": "rag1", "text": "本地向量库与混合检索入门", "metadata": {"domain": "rag", "lang": "zh"}}
+{"id": "rag2", "text": "SQLite FTS5 and embedding hybrid search", "metadata": {"domain": "rag", "lang": "en"}}

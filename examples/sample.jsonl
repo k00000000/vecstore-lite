@@ -1,0 +1,3 @@
+{"id": "alpha", "vector": [1.0, 0.0, 0.0], "metadata": {"tag": "demo", "lang": "en", "year": 2024}, "text": "introduction to vector search"}
+{"id": "beta", "vector": [0.8, 0.2, 0.0], "metadata": {"tag": "demo", "lang": "en", "year": 2025}, "text": "local RAG practice guide"}
+{"id": "gamma", "vector": [0.0, 1.0, 0.0], "metadata": {"tag": "other", "lang": "zh", "year": 2025}, "text": "无人机巡检与影像检索"}
